@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699212803873",
+    "firebase_url": "https://otpsender-bd5fa.firebaseio.com",
+    "project_id": "otpsender-bd5fa",
+    "storage_bucket": "otpsender-bd5fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699212803873:android:34d7ddd02ab92a3c",
+        "android_client_info": {
+          "package_name": "com.example.hello.otpsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699212803873-amq04c42pne0smncfl49nq1hv8crfttv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hello.otpsender",
+            "certificate_hash": "ea24426efc95f78e4dab1f54f085271098d5dbc6"
+          }
+        },
+        {
+          "client_id": "699212803873-tdgh6umcr5drhhlk198hi6a27ihs8deq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5yPNGeycF9aZdcs2tHPAjg78Edv4aU2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699212803873-tdgh6umcr5drhhlk198hi6a27ihs8deq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
